@@ -1,0 +1,12 @@
+{
+	"PowCard.Authorship": "PowCard by Rat (ripped off of John Stavropoulos's X-Card)",
+	"PowCard.ButtonName": "PowCard",
+	"PowCard.ButtonHint": "Display a PowCard to the GM and all players",
+	"PowCard.ButtonFAIcon": "fa-solid fa-burst",
+	"PowCard.Settings.ImageToggleName": "Use picture",
+	"PowCard.Settings.ImageToggleHint": "Enable this to display a custom picture instead of the default symbol.",
+	"PowCard.Settings.ImagePathName": "Path to image",
+	"PowCard.Settings.ImagePathHint": "Select the picture to display if 'Use picture' is enabled.",
+	"PowCard.WindowSymbol": "Pow",
+	"PowCard.WindowTitle": "PowCard"
+}

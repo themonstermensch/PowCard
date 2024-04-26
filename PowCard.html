@@ -1,0 +1,10 @@
+<body>
+    {{#if imageToggle}}
+        <img style="display:block; margin-left:auto; margin-right:auto" src="{{ imagePath }}" width="{{ imageWidth }}" height="{{ imageHeight }}" />
+    {{/if}}
+
+    {{#unless imageToggle}}
+        <b style="text-align:center; font-size:500px">{{localize 'PowCard.WindowSymbol'}}</b>
+    {{/unless}}
+
+</body>
